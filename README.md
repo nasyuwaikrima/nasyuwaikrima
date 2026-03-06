@@ -1,18 +1,15 @@
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWcyazJmdW05NDZ6dHhhcmQ5NjY2eGlmbHF2dWtteWg0ZzFlbTAzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="320"/>
 
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=F71515&width=435&lines=HI!+I'M+Nasyuwa+👋;A+Beginer+Developer;Fullstack+Developer" />
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=F71515&width=500&lines=HI!+I'M+Nasyuwa+👋;A+Beginner+Developer;Future+Fullstack+Developer"/>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWcyazJmdW05NDZ6dHhhcmQ5NjY2eGlmbHF2dWtteWg0ZzFlbTAzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+<p>
+A developer on the journey to becoming a <b>Fullstack Developer</b>.  
+I enjoy learning new technologies, building projects, and continuously improving my skills in programming.
+</p>
 
-A developer on the journey to becoming a **Fullstack Developer**.  
-I enjoy learning new technologies, building projects, and continuously improving my skills in the world of programming.
-
-<br><br><br>
-
+<br>
 
 #### I CODE WITH
 <hr>
@@ -28,7 +25,7 @@ I enjoy learning new technologies, building projects, and continuously improving
   <img src="https://skillicons.dev/icons?i=nodejs,docker,git,linux,vscode,postman,vite,webpack&perline=8" />
 </div>
 
-<br><br><br>
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -57,7 +54,7 @@ I enjoy learning new technologies, building projects, and continuously improving
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29ycHhlbXE5ejA1ZHY1eWRydXBwNWlvd3c1c2h5NTkzMHRydGplcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29ycHhlbXE5ejA1ZHY1eWRydXBwNWlvd3c1c2h5NTkzMHRydGplcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="20%" />
 </div>
 
 ---
@@ -65,7 +62,7 @@ I enjoy learning new technologies, building projects, and continuously improving
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasyuwaikrima/nasyuwaikrima/main/dist/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasyuwaikrima/nasyuwaikrima/main/dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasyuwaikrima/nasyuwaikrima/main/dist/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasyuwaikrima/nasyuwaikrima/main/dist/pacman-contribution-graph-dark.svg">
 </picture>
 
 ---
