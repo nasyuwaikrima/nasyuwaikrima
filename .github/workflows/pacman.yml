@@ -9,9 +9,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated files
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git add dist
+          git commit -m "generate pacman graph" || exit 0
+          git push
