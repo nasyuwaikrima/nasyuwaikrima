@@ -33,8 +33,8 @@ and continuously improving my skills in programming.
  ### Tech Stack
   
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python&perline=8" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,laravel,threejs&perline=8" />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,threejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&perline=8" />
   <img src="https://skillicons.dev/icons?i=nodejs,docker,git,linux,vscode,postman,vite,webpack&perline=8" />
 </div>
 
@@ -46,21 +46,10 @@ and continuously improving my skills in programming.
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
 
 </div>
 
@@ -69,8 +58,7 @@ and continuously improving my skills in programming.
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasyuwaikrima&theme=tokyo-night" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasyuwaikrima&theme=tokyo-night" />
   
 </div>
 
@@ -85,9 +73,10 @@ and continuously improving my skills in programming.
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=200&height=20&lines=DUNIA+SEMENTARAA;AKHIRAT+SELAMANNYA" />
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true" />
+
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29ycHhlbXE5ejA1ZHY1eWRydXBwNWlvd3c1c2h5NTkzMHRydGplcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="10%" />
   
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=200&height=20&lines=DUNIA+SEMENTARAA;AKHIRAT+SELAMANNYA" />
+  
 </div>
-
