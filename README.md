@@ -69,14 +69,8 @@ and continuously improving my skills in programming.
 
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true">
-  <img alt="pacman contribution graph" src="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true width="30%"">
-</picture>
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasyuwaikrima&theme=tokyo-night" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasyuwaikrima&theme=tokyo-night" width="45%" />
   
 </div>
 
