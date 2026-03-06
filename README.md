@@ -58,7 +58,7 @@ and continuously improving my skills in programming.
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasyuwaikrima&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasyuwaikrima&theme=tokyo-night&cache_seconds=1800" />
   
 </div>
 
