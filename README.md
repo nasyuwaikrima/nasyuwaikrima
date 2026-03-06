@@ -53,9 +53,21 @@ and continuously improving my skills in programming.
 
 ---
 
+
+
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29ycHhlbXE5ejA1ZHY1eWRydXBwNWlvd3c1c2h5NTkzMHRydGplcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="20%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true">
+  <img alt="pacman contribution graph" src="https://github-readme-streak-stats.herokuapp.com?user=nasyuwaikrima&theme=holi-theme&short_numbers=true width="30%"">
+</picture>
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasyuwaikrima&theme=tokyo-night" width="50%" />
+  
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nasyuwaikrima&color=blue)
 
 ---
 
@@ -69,4 +81,8 @@ and continuously improving my skills in programming.
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=200&height=20&lines=DUNIA+SEMENTARAA;AKHIRAT+SELAMANNYA" />
+ 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29ycHhlbXE5ejA1ZHY1eWRydXBwNWlvd3c1c2h5NTkzMHRydGplcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="10%" />
+  
 </div>
+
