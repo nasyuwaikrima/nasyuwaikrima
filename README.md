@@ -65,3 +65,6 @@ I enjoy learning new technologies, building projects, and continuously improving
 
 ---
 
+![Pacman Graph](https://raw.githubusercontent.com/nasyuwaikrima/nasyuwaikrima/main/dist/pacman-contribution-graph.gif)
+
+---
