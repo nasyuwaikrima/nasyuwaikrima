@@ -6,20 +6,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=F71515&width=435&lines=HI!+I'M+Nasyuwa+👋;A+Beginer+Developer;Fullstack+Developer" />
 </p>
 
-<hr>
-
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWcyazJmdW05NDZ6dHhhcmQ5NjY2eGlmbHF2dWtteWg0ZzFlbTAzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 
 ### 👨‍💻 About Me
+<hr>
 
 A developer on the journey to becoming a **Fullstack Developer**.  
 I enjoy learning new technologies, building projects, and continuously improving my skills in the world of programming.
 
 <br>
 
-<hr>
 
 #### I CODE WITH
+<hr>
+
+ 
+<div align="center">
+
+ ### Tech Stack
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,laravel,threejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,linux,vscode,postman,vite,webpack&perline=8" />
+</div>
+
+<br><br><br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
