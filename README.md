@@ -1,17 +1,17 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWcyazJmdW05NDZ6dHhhcmQ5NjY2eGlmbHF2dWtteWg0ZzFlbTAzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="320"/>
 
-<p align="left">
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWcyazJmdW05NDZ6dHhhcmQ5NjY2eGlmbHF2dWtteWg0ZzFlbTAzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="25%"/>
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=F71515&width=500&lines=HI!+I'M+Nasyuwa+👋;A+Beginner+Developer;Future+Fullstack+Developer"/>
-</p>
 
-<p>
 A developer on the journey to becoming a <b>Fullstack Developer</b>.  
-I enjoy learning new technologies, building projects, and continuously improving my skills in programming.
-</p>
+I enjoy learning new technologies, building projects,   
+and continuously improving my skills in programming.
 
-<br>
 
-#### I CODE WITH
+
+### I CODE WITH
 <hr>
 
  
