@@ -5,6 +5,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=F71515&width=500&lines=HI!+I'M+Nasyuwa+👋;A+Beginner+Developer;Fullstack+Developer"/>
 
+<p>
+  <a href="https://github.com/nasyuwaikrima">
+    <img src="https://komarev.com/ghpvc/?username=nasyuwaikrima&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/nasyuwaikrima?tab=followers">
+    <img src="https://img.shields.io/github/followers/nasyuwaikrima?label=Followers&style=flat" alt="followers" />
+  </a>
+  <a href="https://github.com/nasyuwaikrima?tab=stars">
+    <img src="https://img.shields.io/github/stars/nasyuwaikrima?label=Stars&style=flat" alt="stars" />
+  </a>
+</p>
+
+
 A developer on the journey to becoming a <b>Fullstack Developer</b>.  
 I enjoy learning new technologies, building projects,   
 and continuously improving my skills in programming.
@@ -66,8 +79,6 @@ and continuously improving my skills in programming.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasyuwaikrima&theme=tokyo-night" width="50%" />
   
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nasyuwaikrima&color=blue)
 
 ---
 
