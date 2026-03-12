@@ -23,14 +23,12 @@ I enjoy learning new technologies, building projects,
 and continuously improving my skills in programming.
 
 
-
-### I CODE WITH
 <hr>
 
  
 <div align="center">
 
- ### Tech Stack
+ ## I code with
   
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python&perline=8" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,threejs&perline=8" />
