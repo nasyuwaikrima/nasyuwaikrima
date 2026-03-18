@@ -33,7 +33,7 @@ and continuously improving my skills in programming.
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python&perline=8" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,threejs&perline=8" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&perline=8" />
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,linux,vscode,postman,vite,webpack&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,vscode,postman,vite,webpack&perline=8" />
 </div>
 
 <br>
